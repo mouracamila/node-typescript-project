@@ -1,3 +1,3 @@
-# Backend GoBarber application (:construction:under development)
+# Backend GoBarber application (Work in progress)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
