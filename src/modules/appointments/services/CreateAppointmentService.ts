@@ -11,7 +11,7 @@ interface IRequest {
   date: Date;
 }
 
-@injectable
+@injectable()
 class CreateAppontmentService {
   constructor(
     @inject('AppointmentsRepository')
